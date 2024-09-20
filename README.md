@@ -42,6 +42,6 @@ alt="powerBI" width="40" height="40"/> </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dubloo&show_icons=true&locale=en&layout=compact" alt="dubloo" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dubloo&show_icons=true&locale=en" alt="dubloo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dubloo&show_icons=true&locale=en" alt="dubloo" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dubloo&" alt="dubloo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dubloo&" alt="dubloo" /></p>
