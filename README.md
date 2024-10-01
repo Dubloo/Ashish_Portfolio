@@ -37,9 +37,20 @@ alt="powerBI" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373938/numpy.svg" alt="NumPy" width="40" height="40"/> </a> 
- <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/_static/logo_light.svg" alt="Matplotlib" width="40" height="40"/> </a> 
- 
+ <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/_static/logo_light.svg" alt="Matplotlib" width="80" height="40"/> </a> 
 </p>
+
+
+
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white) &nbsp;&nbsp;
+![Power BI](https://img.shields.io/badge/Power%20BI-%230F75A8.svg?style=for-the-badge&logo=power-bi&logoColor=yellow) &nbsp;&nbsp;
+![MS SQL](https://img.shields.io/badge/MS_sql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=00008B) &nbsp;&nbsp;
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp;&nbsp;
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) &nbsp;&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) &nbsp;&nbsp;
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) &nbsp;&nbsp;
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dubloo&show_icons=true&locale=en&layout=compact" alt="dubloo" /></p>
 
