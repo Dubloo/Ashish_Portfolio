@@ -29,15 +29,15 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373589/excel.svg" alt="Excel" width="40" height="40"/> </a>
+<p align="left"><a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373589/excel.svg" alt="Excel" width="40" height="40"/> &nbsp;&nbsp;</a>   &nbsp;&nbsp;  
   <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/306593/powerbi.svg" 
-alt="powerBI" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
- <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373938/numpy.svg" alt="NumPy" width="40" height="40"/> </a> 
- <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/_static/logo_light.svg" alt="Matplotlib" width="80" height="40"/> </a> 
+alt="powerBI" width="40" height="40"/> &nbsp;&nbsp;</a>   &nbsp;&nbsp;
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> &nbsp;&nbsp;</a>   &nbsp;&nbsp;
+   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> &nbsp;&nbsp;</a>   &nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp;&nbsp;</a>   &nbsp;&nbsp;
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> &nbsp;&nbsp;</a> &nbsp;&nbsp;
+ <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373938/numpy.svg" alt="NumPy" width="40" height="40"/> &nbsp;&nbsp;</a>   &nbsp;&nbsp;
+ <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/_static/logo_light.svg" alt="Matplotlib" width="80" height="40"/> &nbsp;&nbsp;</a>    &nbsp;&nbsp;
 </p>
 
 
@@ -45,7 +45,7 @@ alt="powerBI" width="40" height="40"/> </a>
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white) &nbsp;&nbsp;
 ![Power BI](https://img.shields.io/badge/Power%20BI-%230F75A8.svg?style=for-the-badge&logo=power-bi&logoColor=yellow) &nbsp;&nbsp;
 ![MS SQL](https://img.shields.io/badge/MS_sql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=00008B) &nbsp;&nbsp;
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) &nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp;&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) &nbsp;&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) &nbsp;&nbsp;
